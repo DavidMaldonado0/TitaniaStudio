@@ -7,9 +7,12 @@
   font-family: 'Raleway', sans-serif;
 }
 
+header {
+  background-color: #131313 !important;
+}
+
 .navbar {
   background-color: #131313;
-  padding: 1rem 1rem;
   z-index: 1000;
 }
 
