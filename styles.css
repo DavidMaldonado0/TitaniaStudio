@@ -87,3 +87,26 @@ header {
   font-size: 0.9rem;
   letter-spacing: 2px;
 }
+
+.page-footer {
+  background-color: #131313 !important;
+  color: #fff !important;
+}
+
+footer ul li {
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+}
+
+.btn-floating {
+  color: #c61616;
+  cursor: pointer;
+}
+
+.btn-floating:hover {
+  color: #fff;
+}
+
+.text-decoration-none {
+  color: #c61616;
+}
